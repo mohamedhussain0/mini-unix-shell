@@ -2,9 +2,9 @@
 
   @file         main.c
 
-  @author       Stephen Brennan
+  @author       Mohamed Hussain
 
-  @date         Thursday,  8 January 2015
+  @date         Thursday,  20 May 2026
 
   @brief        LSH (Libstephen SHell)
 
